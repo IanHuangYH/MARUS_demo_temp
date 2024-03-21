@@ -1,0 +1,4 @@
+[submodule "Assets/marus-core"]
+	path = Assets/marus-core
+	url = https://github.com/MARUSimulator/marus-core.git
+	ignore = dirty
